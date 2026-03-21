@@ -386,7 +386,8 @@ Feel free to explore the repository, modify the script, or adapt the idea for yo
 
 ## It's Me
 
-**Irshad Hossain**
-
-Thank you for visiting.
+<p align="center">
+  <h1 align="center">Irshad Hossain</h1>
+  <p align="center"><b>Thank you for visiting</b> 🧡</p>
+</p>
 
