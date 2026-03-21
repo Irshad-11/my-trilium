@@ -24,11 +24,11 @@
 
 ## THE CONTEXT
 
-This project is basically a **solution approach for a very specific problem**:
+This project is basically a **solution approach for a very specific problem**: **How can I host a Trilium Notes server on the internet completely free with $0 infrastructure cost?**
 
 <img src="https://substackcdn.com/image/fetch/$s_!86eO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F806be787-874e-43e1-85d2-2885ef07f4d6_128x128.png" align="right" width="150" />
 
-> **How can I host a Trilium Notes server on the internet completely free with $0 infrastructure cost?**
+
 
 
 
