@@ -1,6 +1,6 @@
 
 <p align="center">
-  <h1 align="center">My Trilium</h1>
+  <h1 align="center"><a href="https://irshad-11.github.io/my-trilium/">My Trilium</a></h1>
   <p align="center"><b>A High-Speed Self-Hosted <a href="https://github.com/TriliumNext/Trilium"><i>Trilium Server</i></a> Running at $0 Infrastructure Cost</b></p>
 </p>
 <div align="center">
