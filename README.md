@@ -1,6 +1,6 @@
 
 <p align="center">
-  <h1 align="center">My Trilium</h1>
+  <h1 align="center"><a href="https://irshad-11.github.io/my-trilium/">My Trilium</a></h1>
   <p align="center"><b>A High-Speed Self-Hosted <a href="https://github.com/TriliumNext/Trilium"><i>Trilium Server</i></a> Running at $0 Infrastructure Cost</b></p>
 </p>
 <div align="center">
@@ -24,11 +24,11 @@
 
 ## THE CONTEXT
 
-This project is basically a **solution approach for a very specific problem**:
+This project is basically a **solution approach for a very specific problem**: **How can I host a Trilium Notes server on the internet completely free with $0 infrastructure cost?**
 
 <img src="https://substackcdn.com/image/fetch/$s_!86eO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F806be787-874e-43e1-85d2-2885ef07f4d6_128x128.png" align="right" width="150" />
 
-> **How can I host a Trilium Notes server on the internet completely free with $0 infrastructure cost?**
+
 
 
 
@@ -386,7 +386,8 @@ Feel free to explore the repository, modify the script, or adapt the idea for yo
 
 ## It's Me
 
-**Irshad Hossain**
-
-Thank you for visiting.
+<p align="center">
+  <h1 align="center">Irshad Hossain</h1>
+  <p align="center"><b>Thank you for visiting</b> 🧡</p>
+</p>
 
